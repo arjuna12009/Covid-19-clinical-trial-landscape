@@ -46779,8 +46779,8 @@
           </layout-options>
           <size maxheight='3300' minheight='3300' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='267' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98476' id='266' param='vert' w='99166' x='417' y='762'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='271' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98476' id='270' param='vert' w='99166' x='417' y='762'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='5653' id='141' w='99166' x='417' y='762'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='20'>Interventional Design</run>
@@ -47058,32 +47058,32 @@
       </datasource-dependencies>
       <zones>
         <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
-          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='271' param='horz' w='99064' x='468' y='9513'>
-            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='268' param='horz' w='99064' x='468' y='9513'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='266' param='horz' w='99064' x='468' y='9513'>
-                <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='262' param='horz' w='99064' x='468' y='9513'>
-                  <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89602' id='260' w='99064' x='468' y='9513'>
-                    <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='241' param='horz' w='99064' x='468' y='9513'>
-                      <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='239' param='horz' w='99064' x='468' y='9513'>
-                        <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='237' param='horz' w='99064' x='468' y='9513'>
-                          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='223' param='horz' w='99064' x='468' y='9513'>
-                            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89602' id='221' w='99064' x='468' y='9513'>
-                              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='214' param='horz' w='99064' x='468' y='9513'>
-                                <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='211' param='horz' w='99064' x='468' y='9513'>
-                                  <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='207' param='horz' w='99064' x='468' y='9513'>
-                                    <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='202' param='horz' w='99064' x='468' y='9513'>
-                                      <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='165' param='horz' w='99064' x='468' y='9513'>
-                                        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89602' id='163' w='99064' x='468' y='9513'>
-                                          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='152' param='horz' w='99064' x='468' y='9513'>
-                                            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='123' param='horz' w='99064' x='468' y='9513'>
-                                              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='119' param='horz' w='99064' x='468' y='9513'>
-                                                <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89602' id='117' w='99064' x='468' y='9513'>
-                                                  <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='112' param='vert' w='99064' x='468' y='9513'>
-                                                    <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89602' id='110' w='99064' x='468' y='9513'>
-                                                      <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='24' param='vert' w='99064' x='468' y='9513'>
-                                                        <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89602' id='22' param='vert' w='99064' x='468' y='9513'>
-                                                          <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89602' id='20' w='99064' x='468' y='9513'>
-                                                            <zone h='55563' id='139' name='Clinical trials map (3)' w='39938' x='11878' y='9513'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='271' param='horz' w='99064' x='468' y='9507'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='268' param='horz' w='99064' x='468' y='9507'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='266' param='horz' w='99064' x='468' y='9507'>
+                <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='262' param='horz' w='99064' x='468' y='9507'>
+                  <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89608' id='260' w='99064' x='468' y='9507'>
+                    <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='241' param='horz' w='99064' x='468' y='9507'>
+                      <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='239' param='horz' w='99064' x='468' y='9507'>
+                        <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='237' param='horz' w='99064' x='468' y='9507'>
+                          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='223' param='horz' w='99064' x='468' y='9507'>
+                            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89608' id='221' w='99064' x='468' y='9507'>
+                              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='214' param='horz' w='99064' x='468' y='9507'>
+                                <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='211' param='horz' w='99064' x='468' y='9507'>
+                                  <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='207' param='horz' w='99064' x='468' y='9507'>
+                                    <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='202' param='horz' w='99064' x='468' y='9507'>
+                                      <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='165' param='horz' w='99064' x='468' y='9507'>
+                                        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89608' id='163' w='99064' x='468' y='9507'>
+                                          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='152' param='horz' w='99064' x='468' y='9507'>
+                                            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='123' param='horz' w='99064' x='468' y='9507'>
+                                              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='119' param='horz' w='99064' x='468' y='9507'>
+                                                <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89608' id='117' w='99064' x='468' y='9507'>
+                                                  <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='112' param='vert' w='99064' x='468' y='9507'>
+                                                    <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89608' id='110' w='99064' x='468' y='9507'>
+                                                      <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='24' param='vert' w='99064' x='468' y='9507'>
+                                                        <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='89608' id='22' param='vert' w='99064' x='468' y='9507'>
+                                                          <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='89608' id='20' w='99064' x='468' y='9507'>
+                                                            <zone h='55561' id='139' name='Clinical trials map (3)' w='39936' x='11876' y='9507'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47091,7 +47091,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='17146' id='143' name='Clinical Trials Selected (2)' w='11410' x='468' y='9513'>
+                                                            <zone h='17140' id='143' name='Clinical Trials Selected (2)' w='11408' x='468' y='9507'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47099,7 +47099,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='72456' id='146' name='No of Trials by country (2)' w='11410' x='468' y='26659'>
+                                                            <zone h='72468' id='146' name='No of Trials by country (2)' w='11408' x='468' y='26647'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47107,7 +47107,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='34039' id='154' name='Intervention Type (2)' w='20480' x='11878' y='65076'>
+                                                            <zone h='34047' id='154' name='Intervention Type (2)' w='20478' x='11876' y='65068'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47115,7 +47115,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='34039' id='155' name='Overall Status (2)' w='14223' x='51843' y='65076'>
+                                                            <zone h='34047' id='155' name='Overall Status (2)' w='14225' x='51839' y='65068'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47123,7 +47123,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='34039' id='158' name='Observational model' w='19485' x='32358' y='65076'>
+                                                            <zone h='34047' id='158' name='Observational model' w='19485' x='32354' y='65068'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47131,7 +47131,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='26851' id='257' name='Sheet 35 (3)' w='37036' x='51816' y='38225'>
+                                                            <zone h='26855' id='257' name='Sheet 35 (3)' w='37038' x='51812' y='38213'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47139,7 +47139,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='34039' id='204' name='Sponsors (2)' w='16733' x='66066' y='65076'>
+                                                            <zone h='34047' id='204' name='Sponsors (2)' w='16733' x='66064' y='65068'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47147,7 +47147,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='23291' id='264' name='Sheet 35' w='47716' x='51816' y='14934'>
+                                                            <zone h='23291' id='264' name='Sheet 35' w='47720' x='51812' y='14922'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47155,7 +47155,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='5421' id='269' name='Sheet 35' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[yr:primary_completion_date:qk]' values='database' w='25619' x='51816' y='9513'>
+                                                            <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='5415' id='269' name='Sheet 35' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[yr:primary_completion_date:qk]' values='database' w='25621' x='51812' y='9507'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47163,7 +47163,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='5421' id='263' name='Sheet 35 (3)' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[yr:start_date:qk]' values='database' w='22097' x='77435' y='9513'>
+                                                            <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='5415' id='263' name='Sheet 35 (3)' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[yr:start_date:qk]' values='database' w='22099' x='77433' y='9507'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47171,7 +47171,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' fixed-size='234' h='26851' id='272' is-fixed='true' name='Sheet 35 (3)' pane-specification-id='0' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[none:intervention_type:nk]' w='10680' x='88852' y='38225'>
+                                                            <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' fixed-size='234' h='26855' id='272' is-fixed='true' name='Sheet 35 (3)' pane-specification-id='0' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[none:intervention_type:nk]' w='10682' x='88850' y='38213'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47179,7 +47179,7 @@
                                                                 <format attr='margin' value='4' />
                                                               </zone-style>
                                                             </zone>
-                                                            <zone h='34039' id='156' name='Interventions (2)' w='16733' x='82799' y='65076'>
+                                                            <zone h='34047' id='156' name='Interventions (2)' w='16735' x='82797' y='65068'>
                                                               <zone-style>
                                                                 <format attr='border-color' value='#000000' />
                                                                 <format attr='border-style' value='none' />
@@ -47212,7 +47212,7 @@
               </zone>
             </zone>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8628' id='159' w='17087' x='33996' y='885'>
+          <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8622' id='159' w='17087' x='33992' y='885'>
             <button action='tabdoc:goto-sheet window-id=&quot;{30B30DA5-B9CF-4CB1-9AA2-FB5CBB40C718}&quot;' button-type='text'>
               <button-visual-state>
                 <caption>Interventional Design</caption>
@@ -47230,7 +47230,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8628' id='161' w='16851' x='51083' y='885'>
+          <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8622' id='161' w='16853' x='51079' y='885'>
             <button action='tabdoc:goto-sheet window-id=&quot;{BA6D4023-1A2E-4696-9546-08E82C6FDB50}&quot;' button-type='text'>
               <button-visual-state>
                 <caption>Observational Design</caption>
@@ -47248,7 +47248,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8628' id='254' w='16852' x='67934' y='885'>
+          <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8622' id='254' w='16850' x='67932' y='885'>
             <button action='tabdoc:goto-sheet window-id=&quot;{BA405B10-A658-4D00-B0F1-756A4BFFF773}&quot;' button-type='text'>
               <button-visual-state>
                 <caption>Drug Interventions</caption>
@@ -47266,7 +47266,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8628' id='255' w='14746' x='84786' y='885'>
+          <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8622' id='255' w='14750' x='84782' y='885'>
             <button action='tabdoc:goto-sheet window-id=&quot;{2A83EA21-4DAF-49D6-9607-2B93842C6871}&quot;' button-type='text'>
               <button-visual-state>
                 <caption>Sponsors</caption>
@@ -47284,7 +47284,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='8628' id='162' w='33528' x='468' y='885'>
+          <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='8622' id='162' w='33524' x='468' y='885'>
             <formatted-text>
               <run bold='true' fontalignment='1' fontcolor='#ffffff' fontsize='20'>Observational Design</run>
             </formatted-text>
@@ -47316,9 +47316,9 @@
           </layout-options>
           <size maxheight='3100' minheight='3100' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='282' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98230' id='281' param='vert' w='99064' x='468' y='885'>
-                <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='8628' id='162' w='33528' x='468' y='885'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='286' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98230' id='285' param='vert' w='99064' x='468' y='885'>
+                <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='8622' id='162' w='33524' x='468' y='885'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#ffffff' fontsize='20'>Observational Design</run>
                   </formatted-text>
@@ -47330,7 +47330,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8628' id='159' w='17087' x='33996' y='885'>
+                <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8622' id='159' w='17087' x='33992' y='885'>
                   <button action='tabdoc:goto-sheet window-id=&quot;{30B30DA5-B9CF-4CB1-9AA2-FB5CBB40C718}&quot;' button-type='text'>
                     <button-visual-state>
                       <caption>Interventional Design</caption>
@@ -47349,7 +47349,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8628' id='161' w='16851' x='51083' y='885'>
+                <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8622' id='161' w='16853' x='51079' y='885'>
                   <button action='tabdoc:goto-sheet window-id=&quot;{BA6D4023-1A2E-4696-9546-08E82C6FDB50}&quot;' button-type='text'>
                     <button-visual-state>
                       <caption>Observational Design</caption>
@@ -47368,7 +47368,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8628' id='254' w='16852' x='67934' y='885'>
+                <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8622' id='254' w='16850' x='67932' y='885'>
                   <button action='tabdoc:goto-sheet window-id=&quot;{BA405B10-A658-4D00-B0F1-756A4BFFF773}&quot;' button-type='text'>
                     <button-visual-state>
                       <caption>Drug Interventions</caption>
@@ -47387,7 +47387,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8628' id='255' w='14746' x='84786' y='885'>
+                <zone _.fcp.SetMembershipControl.false...type='dashboard-object' _.fcp.SetMembershipControl.true...type-v2='dashboard-object' h='8622' id='255' w='14750' x='84782' y='885'>
                   <button action='tabdoc:goto-sheet window-id=&quot;{2A83EA21-4DAF-49D6-9607-2B93842C6871}&quot;' button-type='text'>
                     <button-visual-state>
                       <caption>Sponsors</caption>
@@ -47406,7 +47406,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='129' h='17146' id='143' is-fixed='true' name='Clinical Trials Selected (2)' w='11410' x='468' y='9513'>
+                <zone fixed-size='129' h='17140' id='143' is-fixed='true' name='Clinical Trials Selected (2)' w='11408' x='468' y='9507'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47415,7 +47415,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='55563' id='139' is-fixed='true' name='Clinical trials map (3)' w='39938' x='11878' y='9513'>
+                <zone fixed-size='280' h='55561' id='139' is-fixed='true' name='Clinical trials map (3)' w='39936' x='11876' y='9507'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47433,7 +47433,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='5421' id='269' name='Sheet 35' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[yr:primary_completion_date:qk]' values='database' w='25619' x='51816' y='9513'>
+                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='5415' id='269' name='Sheet 35' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[yr:primary_completion_date:qk]' values='database' w='25621' x='51812' y='9507'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47442,7 +47442,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='179' h='23291' id='264' is-fixed='true' name='Sheet 35' w='47716' x='51816' y='14934'>
+                <zone fixed-size='179' h='23291' id='264' is-fixed='true' name='Sheet 35' w='47720' x='51812' y='14922'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47451,7 +47451,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='72456' id='146' is-fixed='true' name='No of Trials by country (2)' w='11410' x='468' y='26659'>
+                <zone fixed-size='280' h='72468' id='146' is-fixed='true' name='No of Trials by country (2)' w='11408' x='468' y='26647'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47460,7 +47460,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='5421' id='263' name='Sheet 35 (3)' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[yr:start_date:qk]' values='database' w='22097' x='77435' y='9513'>
+                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='5415' id='263' name='Sheet 35 (3)' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[yr:start_date:qk]' values='database' w='22099' x='77433' y='9507'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47469,7 +47469,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='207' h='26851' id='257' is-fixed='true' name='Sheet 35 (3)' w='37036' x='51816' y='38225'>
+                <zone fixed-size='207' h='26855' id='257' is-fixed='true' name='Sheet 35 (3)' w='37038' x='51812' y='38213'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47478,7 +47478,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' fixed-size='234' h='26851' id='272' name='Sheet 35 (3)' pane-specification-id='0' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[none:intervention_type:nk]' w='10680' x='88852' y='38225'>
+                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' fixed-size='234' h='26855' id='272' name='Sheet 35 (3)' pane-specification-id='0' param='[federated.17v6apj1rf3iap1h5sdii1rkbjzi].[none:intervention_type:nk]' w='10682' x='88850' y='38213'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47487,7 +47487,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='264' h='34039' id='154' is-fixed='true' name='Intervention Type (2)' w='20480' x='11878' y='65076'>
+                <zone fixed-size='264' h='34047' id='154' is-fixed='true' name='Intervention Type (2)' w='20478' x='11876' y='65068'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47496,7 +47496,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='264' h='34039' id='158' is-fixed='true' name='Observational model' w='19485' x='32358' y='65076'>
+                <zone fixed-size='264' h='34047' id='158' is-fixed='true' name='Observational model' w='19485' x='32354' y='65068'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47505,7 +47505,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='264' h='34039' id='155' is-fixed='true' name='Overall Status (2)' w='14223' x='51843' y='65076'>
+                <zone fixed-size='264' h='34047' id='155' is-fixed='true' name='Overall Status (2)' w='14225' x='51839' y='65068'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47514,7 +47514,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='264' h='34039' id='204' is-fixed='true' name='Sponsors (2)' w='16733' x='66066' y='65076'>
+                <zone fixed-size='264' h='34047' id='204' is-fixed='true' name='Sponsors (2)' w='16733' x='66064' y='65068'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47523,7 +47523,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='264' h='34039' id='156' is-fixed='true' name='Interventions (2)' w='16733' x='82799' y='65076'>
+                <zone fixed-size='264' h='34047' id='156' is-fixed='true' name='Interventions (2)' w='16735' x='82797' y='65068'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -47727,8 +47727,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2650' minheight='2650' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='45' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98476' id='44' param='vert' w='99166' x='417' y='762'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='49' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98476' id='48' param='vert' w='99166' x='417' y='762'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='5677' id='16' w='99166' x='417' y='762'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='20'>Drug interventions</run>
@@ -48141,8 +48141,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='3300' minheight='3300' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='53' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98476' id='52' param='vert' w='99166' x='417' y='762'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='57' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98476' id='56' param='vert' w='99166' x='417' y='762'>
                 <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' forceUpdate='true' h='5778' id='27' w='99166' x='417' y='762'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='20'>Sponsor</run>
@@ -48463,7 +48463,7 @@
           <zoom type='fit-width' />
         </viewpoint>
       </viewpoints>
-      <active id='139' />
+      <active id='255' />
       <simple-id uuid='{BA6D4023-1A2E-4696-9546-08E82C6FDB50}' />
     </window>
     <window class='dashboard' name='Drug Interventions'>
@@ -48498,7 +48498,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='29' />
+      <active id='35' />
       <simple-id uuid='{BA405B10-A658-4D00-B0F1-756A4BFFF773}' />
     </window>
     <window class='dashboard' name='Sponsor'>
@@ -48552,7 +48552,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='42' />
+      <active id='41' />
       <simple-id uuid='{2A83EA21-4DAF-49D6-9607-2B93842C6871}' />
     </window>
     <window class='worksheet' name='US Cities Map'>
